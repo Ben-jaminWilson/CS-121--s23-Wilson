@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Activity 2/Activity 2.iml" filepath="$PROJECT_DIR$/Activity 2/Activity 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Allofit.iml" filepath="$PROJECT_DIR$/Allofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice 2/Practice 2.iml" filepath="$PROJECT_DIR$/Practice 2/Practice 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/project1.java/project1.java.iml" filepath="$PROJECT_DIR$/Class/project1.java/project1.java.iml" />
+    </modules>
+  </component>
+</project>
